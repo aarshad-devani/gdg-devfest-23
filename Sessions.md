@@ -18,7 +18,7 @@
 
 ## 1. Deep Chenna (Googler for Web3 Keynote)
 
-![Kalyan](./Photos/deep.jpeg)
+![Kalyan](Photos/deep.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/deepchenna) | [Email]() | [Phone Number]()
 
@@ -28,7 +28,7 @@ Yet to get
 
 ## 2. Thulasiram Peddiboina (Web 3)
 
-![Thulasiram Peddiboina](./Photos/Thulasiram.jpeg)
+![Thulasiram Peddiboina](Photos/Thulasiram.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/thulasiram-peddiboina) | [Email]() | [Phone Number]()
 
@@ -38,7 +38,7 @@ Yet to get
 
 ## 3. Kalyan Prasad
 
-![Kalyan](./Photos/kalyan.jpeg)
+![Kalyan](Photos/kalyan.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/kalyan-prasad-3a647b22) | [Email]() | [Phone Number]()
 
@@ -48,7 +48,7 @@ Kalyan, a self taught data scientist, analytics manager, and open source enthusi
 
 ## 4. Saiteja Alampally (VR)
 
-![Saiteja Alampally](./Photos/saiteja_alampally.jpg)
+![Saiteja Alampally](Photos/saiteja_alampally.jpg)
 
 [LinkedIn](https://www.linkedin.com/in/saiteja-alampally) | [Email](mailto:Saiteja@oneimmersive.us) | [Phone Number](tel:+917660880889)
 
@@ -62,7 +62,7 @@ Beyond technology, Saiteja bridges XR and education, taking it to public schools
 
 ## 5. Harish Kotra (Low Code No Code)
 
-![Harish Kotra](./Photos/harish.png)
+![Harish Kotra](Photos/harish.png)
 
 [LinkedIn](https://www.linkedin.com/in/harishkotra/) | [Email](mailto:harish@fests.info) | [Phone Number](tel:+919618035273)
 
@@ -72,7 +72,7 @@ Yet to get
 
 ## 6. Gopal Akshintala
 
-![Gopal Akshintalaa](./Photos/gopal.jpeg)
+![Gopal Akshintalaa](Photos/gopal.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/gopal-s-akshintala) | [Email](mailto:gopalakshintala@gmail.com) | [Phone Number](tel:+919483994883)
 
@@ -82,7 +82,7 @@ Yet to get
 
 ## 7. Om Ashish Mishra
 
-![Om Ashish Mishra](./Photos/om.jpeg)
+![Om Ashish Mishra](Photos/om.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/om-ashish-mishra) | [Email](mailto:omashish100@gmail.com) | [Phone Number](tel:+919994479767)
 
