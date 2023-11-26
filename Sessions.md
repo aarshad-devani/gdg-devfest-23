@@ -36,11 +36,11 @@ Yet to get
 
 Yet to get
 
-## 3. Kalyan ()
+## 3. Kalyan Prasad
 
 ![Kalyan](./Photos/kalyan.jpeg)
 
-[LinkedIn]() | [Email]() | [Phone Number]()
+[LinkedIn](https://www.linkedin.com/in/kalyan-prasad-3a647b22) | [Email]() | [Phone Number]()
 
 **_Title - The art and science of Large language models- A practical walkthrough_**
 
