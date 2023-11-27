@@ -9,7 +9,7 @@
 | 12:45      | 01:15    | 30 mins  |                       | Lunch              |
 | 01:15      | 01:30    | 15 mins  |                       | Lunch Buffer       |
 | 01:30      | 02:05    | 35 mins  | Gopal Akshintala      | Automation         |
-| 02:10      | 02:45    | 35 mins  | Speaker               | Gen AI #2          |
+| 02:10      | 02:45    | 35 mins  | Kalyan Prasad         | Gen AI #2          |
 | 02:50      | 03:25    | 35 mins  | Harish Kotra          | Usage of ML        |
 | 03:30      | 03:45    | 15 mins  |                       | Generic QnA        |
 | 03:45      | 04:00    | 15 mins  |                       | Photos and Wind up |
@@ -20,7 +20,7 @@
 
 ![Kalyan](Photos/deep.jpeg)
 
-[LinkedIn](https://www.linkedin.com/in/deepchenna) | [Email]() | [Phone Number]()
+[LinkedIn](https://www.linkedin.com/in/deepchenna) | [Email](mailto:deepchenna@google.com) | [Phone Number]()
 
 **_Title - Yet to Finalize_**
 
@@ -30,7 +30,7 @@ Yet to get
 
 ![Thulasiram Peddiboina](Photos/Thulasiram.jpeg)
 
-[LinkedIn](https://www.linkedin.com/in/thulasiram-peddiboina) | [Email]() | [Phone Number]()
+[LinkedIn](https://www.linkedin.com/in/thulasiram-peddiboina) | [Email](mailto:thulasirampeddiboina@gmail.com) | [Phone Number]()
 
 **_Title - Yet to Finalize_**
 
@@ -66,7 +66,7 @@ Beyond technology, Saiteja bridges XR and education, taking it to public schools
 
 [LinkedIn](https://www.linkedin.com/in/harishkotra/) | [Email](mailto:harish@fests.info) | [Phone Number](tel:+919618035273)
 
-**_Title - Low Code No Code_**
+**_Title - Hauntingly Efficient Way to Build Apps with AI_**
 
 Yet to get
 
