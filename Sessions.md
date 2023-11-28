@@ -22,7 +22,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/deepchenna) | [Email](mailto:deepchenna@google.com) | [Phone Number]()
 
-**_Title - Yet to Finalize_**
+**_Title - Keynote on Web3_**
 
 Yet to get
 
@@ -32,7 +32,7 @@ Yet to get
 
 [LinkedIn](https://www.linkedin.com/in/thulasiram-peddiboina) | [Email](mailto:thulasirampeddiboina@gmail.com) | [Phone Number]()
 
-**_Title - Yet to Finalize_**
+**_Title - Web3 Unveiled: Shaping the Future of the Internet_**
 
 Yet to get
 
