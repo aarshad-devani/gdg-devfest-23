@@ -68,7 +68,9 @@ Beyond technology, Saiteja bridges XR and education, taking it to public schools
 
 **_Title - Hauntingly Efficient Way to Build Apps with AI_**
 
-Yet to get
+Harish is the Community Lead for AngelHack, a diverse community of change makers and innovators worldwide. A passionate advocate for no-code technology, Harish believes in empowering individuals to bring their own ideas to life without coding.
+
+Harish has played a pivotal role in organizing some of the most noteworthy hackathons and developer competitions globally, creating opportunities for developers to showcase their skills and ideas. Having hosted and managed over 200 hackathons for developers and students, Harish's impact extends across regions, including India, Maldives, Sri Lanka, Bangladesh, Pakistan, Dubai, and more.
 
 ## 6. Gopal Akshintala
 
@@ -78,7 +80,17 @@ Yet to get
 
 **_Title - Revolutionize API automation with ReṼoman_**
 
-Yet to get
+*Gopal S Akshintala* is currently a *Lead Software Engineer at Salesforce*, working on Scaling Backend Systems for Industries Revenue Excellence.
+
+He is a passionate developer and loves being an *Influencer & Mentor* in the Dev community through his [Blog-posts](https://overfullstack.github.io/),
+[International Tech-Talks](https://overfullstack.github.io/my-talks), Social-media, and Open-Source.
+
+In addition to his Software Engineering experience, Gopal gains more experiences-per-year through open-source collaborations & contributions.
+Gopal authored *2 Open-Source libraries*:
+- [*ReVoman 🦹🏻‍♀️*](https://sfdc.co/revoman), a Template-Driven API Automation tool for JVM.
+- [*Vador🦾*](https://sfdc.co/vador), a Validation framework for JVM.
+
+Gopal loves being on Stage, as a Singer ([Youtube](https://bit.ly/gopal-vox)) and a [Tech-Speaker](https://overfullstack.github.io/my-talks)
 
 ## 7. Om Ashish Mishra
 
